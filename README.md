@@ -1,2 +1,2 @@
-# codecademy_data_scientist_path
-Codecademy Pro Data Scientist Career Path project codes.
+# codecademy_data_analyst_path
+Codecademy Pro Data analyst Career Path project codes.
